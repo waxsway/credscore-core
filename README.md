@@ -76,7 +76,7 @@ No KYC. No doxxing. Just wallet-level pseudonymous reputation. All score logic a
 
 ## 🧠 Founders
 
-Wade Wickingson & Kenny [last name optional] — Two guys fed up with the old system, building the new one.
+Wade Wickingson — A guy fed up with the old system, building the new one.
 
 ---
 

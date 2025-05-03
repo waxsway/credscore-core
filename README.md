@@ -1,6 +1,5 @@
-# credscore-core
-Core logic and MVP source code for the CredScore decentralized reputation protocol.
 # CredScore (CRED)
+Core logic and MVP source code for the CredScore decentralized reputation protocol.
 
 **CredScore** is a Web3-based decentralized credit scoring and reward system designed to empower users through transparent, reputation-based financial scoring. By leveraging on-chain behavior, community validation, and reward incentives, CredScore aims to build the trust layer of the decentralized economy.
 
@@ -82,7 +81,7 @@ Wade Wickingson — A guy fed up with the old system, building the new one.
 
 ## 🤝 Contribute
 
-Pull requests welcome! Or join the community on [Discord](#) to discuss features, submit feedback, or become an early tester.
+Pull requests welcome! Or join the community on [Discord] (Coming Soon) to discuss features, submit feedback, or become an early tester.
 
 ---
 
